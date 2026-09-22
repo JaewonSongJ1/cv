@@ -30,6 +30,7 @@
 - **2011 Apr.** [**Characteristic Facial Retargeting.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Jaewon_CASA.html) Jaewon Song, Byungkuk Choi, Yeongho Seol, Junyong Noh. *The Journal of Computer Animation and Virtual World, Volume 22, Issue 2-3, p.187-194, April-May 2011*
 
 ## 논문 (국내)
+- **2025 Dec.** [**시네마틱 카메라 제어 기반 무제한 길이 비디오 생성**](https://doi.org/10.15701/kcgs.2025.31.5.17) 이정민, 최종원, 송재원. *Journal of the Korea Computer Graphics Society, 31(5), 17-27.*
 - **2022 Jul.** **풀바디 스캔과 모션 캡처를 활용한 3D 애니메이션 바디프로필** 송재원, 전상욱, 이수빈. *Journal of the Korea Computer Graphics Society, 29(3), 59-67.*
 - **2022 Jul.** **Unreal Metahuman 및 페이셜 스캔을 이용한 디지털 더블 제작** 송재원, 임재호, 이동하. *Proceedings of 2022 KCGS Conference, pp. 107-108*
 - **2021 Sep.** **메쉬 변형 전달 기법을 통한 블렌드쉐입 페이셜 리그 복제에 대한 연구** 송재원, 임재호, 이동하. *Journal of Korea Multimedia Society, vol.24, no.9, pp. 1279-1284*

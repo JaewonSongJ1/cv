@@ -30,6 +30,7 @@ I conduct computer graphics R&D related to digital characters used in film CG VF
 - **2011 Apr.** [**Characteristic Facial Retargeting.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Jaewon_CASA.html) Jaewon Song, Byungkuk Choi, Yeongho Seol, Junyong Noh. *The Journal of Computer Animation and Virtual World, Volume 22, Issue 2-3, p.187-194, April-May 2011*
 
 ## Publications (Domestic)
+- **2025 Dec.** [**Infinite Video Generation with Cinematic Camera Trajectory Control.**](https://doi.org/10.15701/kcgs.2025.31.5.17) Jungmin Lee, Jong Won Choi, Jaewon Song. *Journal of the Korea Computer Graphics Society, 31(5), 17-27.*
 - **2022 Jul.** **3D Animation Body Profile using Full-body Scan and Motion Capture.** Jaewon Song, Sangwook Jeon, Subin Lee. *Journal of the Korea Computer Graphics Society, 29(3), 59-67.*
 - **2022 Jul.** **Digital Double Production using Unreal Metahuman and Facial Scan.** Jaewon Song, Jaeho Lim, Dongha Lee. *Proceedings of 2022 KCGS Conference, pp. 107-108*
 - **2021 Sep.** **A Study on Blendshape Facial Rig Cloning via Mesh Deformation Transfer.** Jaewon Song, Jaeho Lim, Dongha Lee. *Journal of Korea Multimedia Society, vol.24, no.9, pp. 1279-1284*

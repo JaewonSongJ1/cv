@@ -18,4 +18,6 @@
 - 국제논문 추가 (`cv_korean.md`, `cv_english.md`)
   - *Motion-Faithful Denoising for Dynamic Facial Scan Sequences* (ACM SIGGRAPH 2026 Posters)
   - *Transform-Invariant Facial Expression Editing for 4D Mesh Sequences* (Journal of Multimedia Information System, 2025)
+- 국내논문 추가 (`cv_korean.md`, `cv_english.md`)
+  - *시네마틱 카메라 제어 기반 무제한 길이 비디오 생성* / *Infinite Video Generation with Cinematic Camera Trajectory Control* (한국컴퓨터그래픽스학회논문지, 2025)
 
