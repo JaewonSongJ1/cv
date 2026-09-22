@@ -17,4 +17,5 @@
 - 저장소 안내 및 일자별 변경 이력 관리를 위한 `README.md` 작성
 - 국제논문 추가 (`cv_korean.md`, `cv_english.md`)
   - *Motion-Faithful Denoising for Dynamic Facial Scan Sequences* (ACM SIGGRAPH 2026 Posters)
+  - *Transform-Invariant Facial Expression Editing for 4D Mesh Sequences* (Journal of Multimedia Information System, 2025)
 
