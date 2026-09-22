@@ -20,4 +20,9 @@
   - *Transform-Invariant Facial Expression Editing for 4D Mesh Sequences* (Journal of Multimedia Information System, 2025)
 - 국내논문 추가 (`cv_korean.md`, `cv_english.md`)
   - *시네마틱 카메라 제어 기반 무제한 길이 비디오 생성* / *Infinite Video Generation with Cinematic Camera Trajectory Control* (한국컴퓨터그래픽스학회논문지, 2025)
+- 주요 R&D 프로젝트 4건 추가 (`cv_korean.md`, `cv_english.md`)
+  - [2026] 자유시점 미디어 압축, 복원, 렌더링 기술개발 (과기정통부 IITP)
+  - [2026] 복합 생성형 딥페이크 대응을 위한 능동 탐지-심층 분석 솔루션 개발 (과기정통부 IITP)
+  - [2026] 뇌파와 연동되는 마인드 프롬프팅 에이전트 기술 개발 (과기정통부 IITP)
+  - [2025] 역사적 데이터 기반 디지털 휴먼 자동 생성 기술 개발 (문체부 KOCCA)
 

@@ -39,6 +39,18 @@ I conduct computer graphics R&D related to digital characters used in film CG VF
 - **2014 Sep.** [**Body Motion Retargeting to Rig-space.**](http://vml.kaist.ac.kr/publication/journal_domestic/2014/2014KCGS.html) Jaewon Song, Junyong Noh. *Journal of the Korea Computer Graphics Society, Volume 20, Issue 3, Sep. 2014*
 
 ## Projects
+- **2026** **Development of Compression, Reconstruction and Rendering Technologies for Free-viewport Media**
+  - Funding Agency: IITP (Institute of Information & Communications Technology Planning & Evaluation), MSIT / Scale: 4.5 Billion KRW over 4 years
+  - 4D Gaussian Splatting production, compression, reconstruction, and rendering technology development
+- **2026** **AEGIS: Agentic Experts for Generative-AI Inspection Solution (Active Detection and Deep Analysis Solution for Complex Generative Deepfakes)**
+  - Funding Agency: IITP (Institute of Information & Communications Technology Planning & Evaluation), MSIT / Scale: 7.5 Billion KRW over 4 years
+  - Multi-modal generative deepfake detection and analysis solution development
+- **2026** **Development of a Mind Prompting Agent Technology Linked to Brain-waves**
+  - Funding Agency: IITP (Institute of Information & Communications Technology Planning & Evaluation), MSIT / Scale: 5.6 Billion KRW over 3 years
+  - Research on mental imagery generation of images and videos based on brainwave signals such as EEG
+- **2025** **Development of Automatic Digital Human Creation Technology Based on Historical Data**
+  - Funding Agency: KOCCA (Korea Creative Content Agency), MCST / Scale: 2.73 Billion KRW over 3 years
+  - Development of digital human creation and control technology for historical figures based on historical records
 - **2017** **Development of Ultra-Realistic Service Technology Based on 4D Reconstruction and Dynamic Deformation Behavior Model**
   - Funding Agency: Ministry of Science and ICT (MSIT) / Scale: 13 Billion KRW over 4 years
   - Developed realistic avatar facial rigging technology from input 4D mesh data
