@@ -25,7 +25,7 @@ Computer graphics R&D lead specializing in digital characters for feature film V
 - **2002-2008** B.S. in Digital Media, Ajou University, Korea
 
 ## Publications (International)
-- **2026 Jul.** [**Motion-Faithful Denoising for Dynamic Facial Scan Sequences.**](https://doi.org/10.1145/3799825.3818714) **Jaewon Song**, Minyeong Jeong. *ACM SIGGRAPH 2026 Posters, pp. 1–3*
+- **2026 Jul.** [**Motion-Faithful Denoising for Dynamic Facial Scan Sequences.**](https://doi.org/10.1145/3799825.3818714) **Jaewon Song**, Minyeong Jeong. *ACM SIGGRAPH 2026 Posters*
 - **2025 Jun.** [**Transform-Invariant Facial Expression Editing for 4D Mesh Sequences.**](https://doi.org/10.33851/JMIS.2025.12.2.67) **Jaewon Song**, Minyeong Jeong, Jaeho Im. *Journal of Multimedia Information System, vol. 12, no. 2, pp. 67–70*
 - **2017 Apr.** [**Sparse Rig Parameter Optimization for Character Animation.**](http://vml.kaist.ac.kr/publication/journal/2017/2017JaewonSong_CGF.html) **Jaewon Song**, Roger Blanco i Ribera, Kyungmin Cho, Mi You, J. P. Lewis, Byungkuk Choi, Junyong Noh. *Computer Graphics Forum, vol. 36, no. 2, pp. 85–94*
 - **2011 Sep.** [**Facial Retargeting by Adding Supplemental Blendshapes.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Paul_PG.html) Paul Hyunjin Kim, Yeongho Seol, **Jaewon Song**, Junyong Noh. *Conference Short Paper, Pacific Graphics 2011*
