@@ -23,6 +23,7 @@
 - **2002-2008** 아주대학교 미디어학부 학사 졸업
 
 ## 논문 (국제)
+- **2026 Jul.** [**Motion-Faithful Denoising for Dynamic Facial Scan Sequences.**](https://doi.org/10.1145/3799825.3818714) Jaewon Song, Minyeong Jeong. *ACM SIGGRAPH 2026 Posters, pp.1-3*
 - **2017 Apr.** [**Sparse Rig Parameter Optimization for Character Animation.**](http://vml.kaist.ac.kr/publication/journal/2017/2017JaewonSong_CGF.html) Jaewon Song, Roger Blanco i Ribera, Kyungmin Cho, Mi You, J. P. Lewis, Byungkuk Choi, Junyong Noh. *Computer Graphics Forum, v.36, no.2, pp.85 - 94*
 - **2011 Sep.** [**Facial Retargeting by Adding Supplemental Blendshapes.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Paul_PG.html) Paul Hyunjin Kim, Yeongho Seol, Jaewon Song, Junyong Noh. *Conference Short Paper, Pacific Graphics 2011*
 - **2011 Apr.** [**Characteristic Facial Retargeting.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Jaewon_CASA.html) Jaewon Song, Byungkuk Choi, Yeongho Seol, Junyong Noh. *The Journal of Computer Animation and Virtual World, Volume 22, Issue 2-3, p.187-194, April-May 2011*

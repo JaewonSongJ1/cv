@@ -12,5 +12,9 @@
 ## 변경 이력 (Changelog)
 
 ### 2026-09-22
-- 저장소 초기화 및 국문/영문 이력서 최초 등록 (`cv_korean.md`, `cv_english.md`)
-- `README.md` 추가
+- 저장소 초기화 및 원격 저장소(`origin`) 연동
+- 국문 및 영문 이력서 파일 최초 등록 (`cv_korean.md`, `cv_english.md`)
+- 저장소 안내 및 일자별 변경 이력 관리를 위한 `README.md` 작성
+- 국제논문 추가 (`cv_korean.md`, `cv_english.md`)
+  - *Motion-Faithful Denoising for Dynamic Facial Scan Sequences* (ACM SIGGRAPH 2026 Posters)
+
