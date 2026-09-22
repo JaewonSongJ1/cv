@@ -71,19 +71,14 @@ I conduct computer graphics R&D related to digital characters used in film CG VF
   - Funding Agency: KOCCA (Korea Creative Content Agency)
 
 ## Patents
-- **2015** **Sparse Rig Parameter Optimization for Character Animation** (KR, Patent pending, P-15995)
-- **2015** **Method and apparatus for character motion retargeting to rig-space** (KR, Registered: 10-1686028-0000)
-- **2009** **Retargeting method for characteristic facial and recording medium for the same** (KR, Registered: 10-1261737-0000)
+- **2025** **Method of generating digital images through 4D mesh sequence editing preserving natural head motion** (KR, Registered: 10-2968982)
+- **2023** **Method for producing 3D animation body profile using full-body scan and motion capture** (KR, Registered: 10-2805326)
+- **2015** **Method and apparatus for character motion retargeting to rig-space** (KR, Registered: 10-1686028)
+- **2009** **Retargeting method for characteristic facial and recording medium for the same** (KR, Registered: 10-1261737)
 
 ## Film and Animation Credits
-- **2022** **JUNG_E** (Dir. Yeon Sang-ho) - 3D Facial and Full Body Scanning
-- **2021** **Hellbound** (Dir. Yeon Sang-ho) - 4D Facial Scanning and Facial Performance Capture
-- **2018** **The Great Battle** (Dir. Kim Kwang-sik) - Horse (Quadruped) Motion Capture and Retargeting for cavalry crowd battles
-- **2018** **Psychokinesis** (Dir. Yeon Sang-ho) - Main Character Body and Facial Scanning
-- **2017** **The Battleship Island** (Dir. Ryoo Seung-wan) - Environment setup automation script development
-- **2014** [**'Feel Good Music' - MFBTY Music Video Teaser**](https://vimeo.com/70922333) - Facial Capture and Retargeting
-- **2009** [**The Life**](https://youtu.be/w3VesG0GHW8) - Overall Character Animation, Prop Modeling (Grand Prize in Student Section, Korea Visual Arts Festival, etc.)
-- **2008** [**Mr. Vending Machine**](https://vimeo.com/9093820) - Main Character Animation (Invited to Yubari International Fantastic Film Festival, etc.)
+- **Project Y** (2025), **Hi.5** (2025), **Hellbound** (2021), **The Great Battle** (2018), **Psychokinesis** (2018), **The Battleship Island** (2017), and multiple other feature films & TV series
+- **2009** [**The Life**](https://youtu.be/w3VesG0GHW8) - Overall character animation, prop modeling. Grand Prize in Student Section, Korea Visual Arts Festival, and multiple awards/screenings
 
 ## Skills
 **Character Animation R&D**
