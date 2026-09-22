@@ -1,0 +1,92 @@
+# 송재원 (Jaewon Song) - CV
+
+**이메일:** [jaewon.song.j1@gmail.com](mailto:jaewon.song.j1@gmail.com)  
+**국적:** 대한민국
+
+---
+
+## 프로필 (Personal Profile)
+본인은 영화 CG VFX 및 애니메이션 프로덕션에 활용되는 디지털 캐릭터와 관련된 컴퓨터 그래픽스 연구 개발을 수행하고 있습니다. 모션 캡처 및 캐릭터 리깅과 관련된 인하우스 솔루션 개발, 그리고 머신 러닝에 기반한 프로덕션 작업 공정의 효율화 솔루션 개발을 주로 진행하고 있습니다.
+
+## 관심분야 (Interests)
+- 모션 캡처 / 페이셜 캡처 및 리타겟팅
+- 고품질 페이셜 제작을 위한 메쉬 스캔, 페이셜 리깅
+- 머신 러닝에 기반한 프로덕션 공정 자동화 및 효율화
+
+## 경력 및 학력 (Experience & Education)
+- **2023-현재** 홍익대학교 영상커뮤니케이션대학원 겸임교수
+- **2023-현재** Director of R&D, Dexter Studios Inc.
+- **2019-2023** Director of R&D, Engine Visual Wave Inc.
+- **2017-2019** CTO / Co-head of V-Lab, Digital Idea Inc.
+- **2011-2017** KAIST 문화기술대학원 박사 졸업 (컴퓨터 그래픽스)
+- **2009-2011** KAIST 문화기술대학원 석사 졸업 (컴퓨터 그래픽스)
+- **2002-2008** 아주대학교 미디어학부 학사 졸업
+
+## 논문 (국제)
+- **2017 Apr.** [**Sparse Rig Parameter Optimization for Character Animation.**](http://vml.kaist.ac.kr/publication/journal/2017/2017JaewonSong_CGF.html) Jaewon Song, Roger Blanco i Ribera, Kyungmin Cho, Mi You, J. P. Lewis, Byungkuk Choi, Junyong Noh. *Computer Graphics Forum, v.36, no.2, pp.85 - 94*
+- **2011 Sep.** [**Facial Retargeting by Adding Supplemental Blendshapes.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Paul_PG.html) Paul Hyunjin Kim, Yeongho Seol, Jaewon Song, Junyong Noh. *Conference Short Paper, Pacific Graphics 2011*
+- **2011 Apr.** [**Characteristic Facial Retargeting.**](http://vml.kaist.ac.kr/publication/journal/2011/2011Jaewon_CASA.html) Jaewon Song, Byungkuk Choi, Yeongho Seol, Junyong Noh. *The Journal of Computer Animation and Virtual World, Volume 22, Issue 2-3, p.187-194, April-May 2011*
+
+## 논문 (국내)
+- **2022 Jul.** **풀바디 스캔과 모션 캡처를 활용한 3D 애니메이션 바디프로필** 송재원, 전상욱, 이수빈. *Journal of the Korea Computer Graphics Society, 29(3), 59-67.*
+- **2022 Jul.** **Unreal Metahuman 및 페이셜 스캔을 이용한 디지털 더블 제작** 송재원, 임재호, 이동하. *Proceedings of 2022 KCGS Conference, pp. 107-108*
+- **2021 Sep.** **메쉬 변형 전달 기법을 통한 블렌드쉐입 페이셜 리그 복제에 대한 연구** 송재원, 임재호, 이동하. *Journal of Korea Multimedia Society, vol.24, no.9, pp. 1279-1284*
+- **2016 Jun.** **페이셜 리그에 대한 페이셜 캡처 데이터의 다이렉트 리타겟팅 방법** 송재원, 노준용. *Journal of the Korea Computer Graphics Society, Volume 22, No.2, June 2016*
+- **2016 Jan.** **4족 동물의 광학식 모션캡처 프로세스와 디지털 4족 캐릭터에 대한 리타겟팅 파이프라인에 대한 연구** 송재원, 유미, 김정희, 양준식, 노준용. *Journal of The Animation Society of Korea, Vol.11, No.5, pp.162-179, 2016*
+- **2014 Sep.** [**리깅 공간으로의 몸체 동작 리타겟팅**](http://vml.kaist.ac.kr/publication/journal_domestic/2014/2014KCGS.html) 송재원, 노준용. *Journal of the Korea Computer Graphics Society, Volume 20, Issue 3, Sep. 2014*
+
+## 프로젝트 (Projects)
+- **2017** **4D 복원 및 동적 변형 거동 모델 기반의 초실감 서비스 기술 개발**
+  - 주관기관: 과학기술정보통신부 (전 미래창조과학부) / 사업규모: 4년 130억 원
+  - 입력 4D 메시 데이터로부터 사실적인 아바타 얼굴 리깅 기술 개발
+  - 입력 4D 메시 데이터 및 이미지 데이터 분석을 통한 사실적인 아바타 얼굴 애니메이션 기술 개발
+- **2015** [**모션캡쳐 기반의 스타일리쉬 애니메이션 제작 파이프라인 구축**](https://www.youtube.com/watch?v=fYPcPxdI_LY)
+  - 주관기관: 대전문화산업진흥원 / 사업규모: 1년 1억 원
+  - 페이셜/바디 리그 리타겟팅 툴, 4족 캐릭터 모캡 및 리타겟팅 개발
+- **2012-2014** [**고품질 3D 영상의 효율적인 제작을 위한 파이프라인 관리 및 온스테이지 사전시각화 기술 개발**](http://vml.kaist.ac.kr/projects/tech/2014/2014Previz.html)
+  - 주관기관: 한국콘텐츠진흥원 / 사업규모: 3년 49억 원
+  - 프리비즈를 위한 자동화 리깅 툴, Unity3D 실시간 얼굴 애니메이션 툴 개발
+- **2014** [**포토 프로젝션 매핑 툴킷 개발**](http://vml.kaist.ac.kr/projects/tech/2014/2014Photomapping_DI.html)
+  - 주관기관: Digital Idea
+  - HDRI 포토 프로젝션 매핑을 위한 V-ray 쉐이더 개발
+- **2012** [**얼굴 및 몸체 애니메이션 툴 개발**](http://vml.kaist.ac.kr/projects/tech/2012/2012MohmAndNaht.html)
+  - 주관기관: 스튜디오카이
+  - 커스텀 리그 컨트롤러 리타겟팅 툴, 포즈 라이브러리 툴 개발
+- **2008-2010** [**디지털 크리쳐 기술개발 프로젝트**](http://vml.kaist.ac.kr/projects/tech/2010/2010DigitalCreature.html)
+  - 주관기관: 한국콘텐츠진흥원 / 사업규모: 3년 12억 원
+
+## 특허 (Patents)
+- **2015** **Sparse Rig Parameter Optimization for Character Animation** (한국, 출원진행중, P-15995)
+- **2015** **리깅 공간으로의 몸체 동작 리타겟팅** (한국, 등록완료: 10-1686028-0000)
+- **2009** **대상의 특성에 기반한 얼굴 애니메이션 전달 기술** (한국, 등록완료: 10-1261737-0000)
+
+## 주요 작품 (Film and Animation Credits)
+- **2022** **정이** (연상호 감독) - 3D 인물 페이셜 스캔 및 풀바디 스캔
+- **2021** **지옥** (연상호 감독) - 4D 인물 페이셜 스캔 및 얼굴 퍼포먼스 캡처
+- **2018** **안시성** (김광식 감독) - 기마 군중 전투를 위한 말(4족) 모션 캡처 및 리타겟팅
+- **2018** **염력** (연상호 감독) - 주연 캐릭터 바디 및 페이셜 스캐닝
+- **2017** **군함도** (류승완 감독) - 환경 구성 관련 자동화 스크립트 개발
+- **2014** [**'Feel Good Music' - MFBTY 뮤직비디오 티저**](https://vimeo.com/70922333) - 페이셜 캡쳐 및 리타겟팅
+- **2009** [**The Life**](https://youtu.be/w3VesG0GHW8) - 전체 캐릭터 애니메이션, 프랍 모델링 (대한민국 영상대전 학생부문 대상 등 다수 초청/수상)
+- **2008** [**Mr. Vending Machine**](https://vimeo.com/9093820) - 메인 캐릭터 애니메이션 (유바리 국제판타스틱영화제 초청 등 다수 초청/수상)
+
+## 전문 분야 (Skills)
+**캐릭터 애니메이션 연구개발 (Character Animation R&D)**
+- Motion capture, facial capture and retargeting solution development
+- Automatic character rigging, motion retargeting to character rig controls
+- Machine learning - Classical classification, regression, clustering, reinforcement learning algorithms
+
+**인하우스 소프트웨어 플러그인 개발 (In-house Software Plugin Dev)**
+- Python, QT - Maya Python API, PyQT UI Design, PyMel
+- C++ - Maya API, Shader Programming
+- C# - Unity3D Plugin
+
+**활용 소프트웨어 (Softwares)**
+- Autodesk Maya, Autodesk MotionBuilder, Blender
+- Vicon Blade, Vicon Cara, Faceware
+- Unity, Unreal, Godot
+
+## 박사 지도교수 (Reference)
+**노준용 (Junyong Noh)**  
+KAIST 문화기술대학원 학과장 / 교수  
+**Email:** [junyongnoh@kaist.ac.kr](mailto:junyongnoh@kaist.ac.kr)
